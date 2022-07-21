@@ -20,5 +20,5 @@
 > * !create: <list_name> 리스트를 새로 만듭니다. 랜덤 리스트는 서버 멤버 전체가 사용할 수 있습니다.
 > * !delete: <list_name> 리스트를 삭제합니다.
 > * !add: <string> !list: <list_name> 리스트에 항목을 추가합니다.
-> * !subtract: <string> 리스트의 항목을 삭제합니다.
+> * !subtract:
 > * play: <list_name> 리스트에서 랜덤 항목을 가져옵니다.
