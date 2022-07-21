@@ -10,15 +10,15 @@
 > 사용법
 >
 > /team 
-> * create: <team_name> 팀을 새로 만듭니다.
-> * delete: <team_name> 팀을 삭제합니다.
-> * promote: <@user> 팀의 소유권을 다른 유저에게 양도합니다.
-> * join: <team_name> 팀에 참가합니다.
-> * leave: <team_name> 팀을 떠납니다.
+> * create: (team_name) 팀을 새로 만듭니다.
+> * delete: (team_name) 팀을 삭제합니다.
+> * promote: (@user) 팀의 소유권을 다른 유저에게 양도합니다.
+> * join: (team_name) 팀에 참가합니다.
+> * leave: (team_name) 팀을 떠납니다.
 > 
 > /ramdom
-> * !create: <list_name> 리스트를 새로 만듭니다. 랜덤 리스트는 서버 멤버 전체가 사용할 수 있습니다.
-> * !delete: <list_name> 리스트를 삭제합니다.
-> * !add: (item) !list: <list_name> 리스트에 항목을 추가합니다.
-> * !subtract: (item) !list: <list_name> 리스트의 항목을 제거합니다.
-> * play: <list_name> 리스트에서 랜덤 항목을 가져옵니다.
+> * !create: (list_name) 리스트를 새로 만듭니다. 랜덤 리스트는 서버 멤버 전체가 사용할 수 있습니다.
+> * !delete: (list_name) 리스트를 삭제합니다.
+> * !add: (item) !list: (list_name) 리스트에 항목을 추가합니다.
+> * !subtract: (item) !list: (list_name) 리스트의 항목을 제거합니다.
+> * play: (list_name) 리스트에서 랜덤 항목을 가져옵니다.
